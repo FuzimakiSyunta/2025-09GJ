@@ -1,5 +1,4 @@
 #include <KamataEngine.h>
-//テスト
 
 using namespace KamataEngine;
 
